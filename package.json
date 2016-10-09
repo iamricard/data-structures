@@ -1,0 +1,29 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eval.js",
+  "scripts": {
+    "test": "flow",
+    "lint": "eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcsole/data-structures.git"
+  },
+  "keywords": [],
+  "author": "Ricard Solé <ricardsolecasas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rcsole/data-structures/issues"
+  },
+  "homepage": "https://github.com/rcsole/data-structures#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.0.0",
+    "eslint": "^3.7.1",
+    "eslint-config-standard": "^6.2.0",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-standard": "^2.0.1",
+    "flow-bin": "^0.33.0"
+  }
+}

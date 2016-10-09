@@ -21,7 +21,6 @@ function linkedList () {
     if (position === 0) {
       head = { value, next: head }
     } else {
-
       const previousNode = get(position - 1)
       const nextNode = previousNode.next
 
